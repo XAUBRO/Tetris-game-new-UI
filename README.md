@@ -45,8 +45,8 @@ RotateCCW - 90 degrees counter clock-wise
 
 
 
-|   #22 by 10 GameGrid Space   |                  
-|:---------------------------: |
+|   22 by 10 GameGrid Space   |                  
+|:--------------------------: |
                           
 |   I -Block Matrix Size 4*4      |                                                 
 |:------------------------------: |
