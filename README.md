@@ -1,7 +1,6 @@
 # Tetris-game-new-UI
-# Tetris-game-new-UI
-Ui
-![TetrisUI](https://github.com/[XAUBRO]/[Tetris-game-new-UI]/blob/[Tetris.png]Tetris.png?raw=true)
+
+![Tetris-game-new-UI](https://github.com/[XAUBRO]/[Tetris-game-new-UI]/blob/[Tetris.png]Tetris.png?raw=true)
 
 Thanks for Reading 😊
 This project is using a .NET Core WPF App on the .NET 6.0 framework with C# and HTML
