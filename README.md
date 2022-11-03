@@ -1,9 +1,10 @@
 ###### Tetris-game-new-UI
 ![Tetris](https://user-images.githubusercontent.com/115903886/199802542-ed1de98f-7497-45bc-be84-cc24d47d63a3.png)
 
+<html/>
 
 #Thanks for Reading 😊
-######This project is using a .NET Core WPF App on the .NET 6.0 framework with C# and HTML
+This project is using a .NET Core WPF App on the .NET 6.0 framework with C# and HTML
 
 #LOGIC 
 public class GameGrid
@@ -101,4 +102,4 @@ Id
 6 -purple
 7 -red
 
-
+<hmtl\>
