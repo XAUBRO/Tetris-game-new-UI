@@ -82,7 +82,9 @@ GameGrid Starting position : ( 0 , 3 )
 {new(1,0), new(1,1), new(1,2), new(2,1)},
 {new(0,1), new(1,0), new(1,1), new(2,1)}
 
-Z -Block Matrix Size 3*3
+|   Z -Block Matrix Size 3*3      |
+|:------------------------------: |
+|             3*3                 |  
 GameGrid Starting position : ( 0 , 3 )
 {new(0,0), new(0,1), new(1,1), new(1,2)},
 {new(0,2), new(1,1), new(1,2), new(2,1)},
@@ -92,21 +94,9 @@ GameGrid Starting position : ( 0 , 3 )
 **negative positions are represented to spawn in blocks on the top portion of the grid that is not visible to the user
 *** The O Block is only a 2 by 2 matrix therefore it will spawn more ‘inward’ at ( 0, 4 ) on the GameGrid
 
-Id
-0 -blank
-1 -cyan
-2 -blue
-3 -orange
-4 -yellow
-5 -green
-6 -purple
-7 -red
-
-
-
-| Id        | Are           | Cool  |
-| --------- |:-------------:| -----:|
-| 0 -blank  | right-aligned | $1600 |
+| Id        | 
+| :-------: |
+| 0 -blank  | 
 | 1 -cyan   |
 | 2 -blue   |
 | 3 -orange |
@@ -114,5 +104,5 @@ Id
 | 5 -green  |
 | 6 -purple |
 | 7 -red    |       
-|           | 
+           
 
