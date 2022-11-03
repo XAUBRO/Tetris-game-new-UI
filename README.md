@@ -42,40 +42,57 @@ then adds the row offset and column offset
 RotateCW - 90 degrees clock-wise
 RotateCCW - 90 degrees counter clock-wise
 
-22 by 10 GameGrid
-I -Block Matric Size 4*4
+#22 by 10 GameGrid
+
+
+|   #22 by 10 GameGrid         |
+|:---------------------------: |
+                          
+|   I -Block Matrix Size 4*4      |
+|:------------------------------: |
+|             4*4                 |
 GameGrid Starting position : ( -1 , 3 )**
 { new(1,0), new(1,1), new(1,2), new(1,3) },
 { new(0,2), new(1,2), new(2,2), new(3,2) },
 { new(2,0), new(2,1), new(2,2), new(2,3) },
 { new(0,1), new(1,1), new(2,1), new(3,1) }
 
-O -Block Matrix Size 2*2 
+|   O -Block Matrix Size 2*2      |
+|:------------------------------: |
+|             2*2                 |
 GameGrid Starting position : ( 0 , 4 )***
 { new(0,0), new(0,1), new(1,0), new(1,1) }
 
-J -Block Matrix Size 3*3 
+|   J -Block Matrix Size 3*3      |
+|:------------------------------: |
+|             3*3                 |
 GameGrid Starting position : ( 0 , 3 )
 {new(0, 0), new(1, 0), new(1, 1), new(1, 2)},
 {new(0, 1), new(0, 2), new(1, 1), new(2, 1)},
 {new(1, 0), new(1, 1), new(1, 2), new(2, 2)},
 {new(0, 1), new(1, 1), new(2, 1), new(2, 0)}
 
-L -Block Matrix Size 3*3 
+|   L -Block Matrix Size 3*3      |
+|:------------------------------: |
+|             3*3                 | 
 GameGrid Starting position : ( 0 , 3 )
 {new(0,2), new(1,0), new(1,1), new(1,2)},
 {new(0,1), new(1,1), new(2,1), new(2,2)},
 {new(1,0), new(1,1), new(1,2), new(2,0)},
 {new(0,0), new(0,1), new(1,1), new(2,1)}
 
-S -Block Matrix Size 3*3 
+|   s -Block Matrix Size 3*3      |
+|:------------------------------: |
+|             3*3                 |
 GameGrid Starting position : ( 0 , 3 )
 { new(0,1), new(0,2), new(1,0), new(1,1) },
 { new(0,1), new(1,1), new(1,2), new(2,2) },
 { new(1,1), new(1,2), new(2,0), new(2,1) },
 { new(0,0), new(1,0), new(1,1), new(2,1) }
 
-T -Block Matrix Size 3*3
+|   T -Block Matrix Size 3*3      |
+|:------------------------------: |
+|             3*3                 |  
 GameGrid Starting position : ( 0 , 3 )
 {new(0,1), new(1,0), new(1,1), new(1,2)},
 {new(0,1), new(1,1), new(1,2), new(2,1)},
