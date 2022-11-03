@@ -1,4 +1,4 @@
-# Tetris-game-new-UI
+###### Tetris-game-new-UI
 ![Tetris](https://user-images.githubusercontent.com/115903886/199802542-ed1de98f-7497-45bc-be84-cc24d47d63a3.png)
 
 
